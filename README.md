@@ -12,8 +12,8 @@ Step 6: Check with the website permission and scrap the content.<br>
 
 ### Program:
 ```
-Developed by: Saravana Kumar S
-Register no: 212221230088
+Developed by: Subramaniya Pillai B
+Register no: 212221230109
 ```
 ##### Importing necessary libraries
 ```Python
